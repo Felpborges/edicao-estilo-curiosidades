@@ -57,3 +57,13 @@ git -C ~/.claude/skills/edicao-estilo-curiosidades pull
 
 O passo a passo completo, as regras que a skill segue, os limites e o mapa da pasta estão no [LEIA-ME.md](LEIA-ME.md).
 Testado no macOS; Windows e Linux ainda não foram testados pelo autor.
+
+## Licença
+
+© 2026 Felipe Borges. Esta skill (textos, medidas e código) é distribuída sob a licença
+[Creative Commons Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0)](LICENSE): você pode usar, adaptar e
+compartilhar, com crédito ao autor, **sem revender nem redistribuir comercialmente**. Os vídeos que você edita com a skill
+são seus e podem ser usados como quiser, inclusive comercialmente.
+
+A fonte **Inter** (`motor/fontes/Inter-Bold.ttf`) não é do autor desta skill: pertence ao The Inter Project Authors e segue
+a licença própria dela, a [SIL Open Font License 1.1](motor/fontes/OFL.txt).
