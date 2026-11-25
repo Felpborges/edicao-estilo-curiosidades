@@ -1,0 +1,209 @@
+{
+ "video": "<pasta-do-autor> Videos/VVVVV motion profissional/reellls.mp4",
+ "fps": 23.976023976023978,
+ "fps_fracao": "24000/1001",
+ "quadros_bruto": 981,
+ "quadros_corte": 942,
+ "duracao_corte_ms": 39289,
+ "crop": {
+  "x0": 903,
+  "y0": 0,
+  "w": 810,
+  "h": 1440
+ },
+ "saida": "1080x1920",
+ "parametros": {
+  "limiar_db": -45.0,
+  "silencio_minimo_ms": 140,
+  "alvo_fim_de_frase_ms": 110,
+  "alvo_meio_ms": 90
+ },
+ "cortes": [
+  {
+   "f0": 49,
+   "n": 1,
+   "de_ms": 2044,
+   "ate_ms": 2085,
+   "tirou_ms": 42,
+   "silencio_ms": [
+    1960,
+    2130
+   ],
+   "sobrou_ms": 128,
+   "tipo": "meio de frase",
+   "entre": "totalmente | gratuitas"
+  },
+  {
+   "f0": 146,
+   "n": 7,
+   "de_ms": 6089,
+   "ate_ms": 6381,
+   "tirou_ms": 292,
+   "silencio_ms": [
+    6030,
+    6450
+   ],
+   "sobrou_ms": 128,
+   "tipo": "fim de frase",
+   "entre": "ano. | Elas"
+  },
+  {
+   "f0": 183,
+   "n": 5,
+   "de_ms": 7633,
+   "ate_ms": 7841,
+   "tirou_ms": 209,
+   "silencio_ms": [
+    7580,
+    7880
+   ],
+   "sobrou_ms": 91,
+   "tipo": "meio de frase",
+   "entre": "Slides, | Docs"
+  },
+  {
+   "f0": 275,
+   "n": 1,
+   "de_ms": 11470,
+   "ate_ms": 11511,
+   "tirou_ms": 42,
+   "silencio_ms": [
+    11390,
+    11550
+   ],
+   "sobrou_ms": 118,
+   "tipo": "fim de frase",
+   "entre": "utiliza. | E"
+  },
+  {
+   "f0": 408,
+   "n": 7,
+   "de_ms": 17017,
+   "ate_ms": 17309,
+   "tirou_ms": 292,
+   "silencio_ms": [
+    16970,
+    17380
+   ],
+   "sobrou_ms": 118,
+   "tipo": "fim de frase",
+   "entre": "negócio. | A"
+  },
+  {
+   "f0": 449,
+   "n": 2,
+   "de_ms": 18727,
+   "ate_ms": 18810,
+   "tirou_ms": 83,
+   "silencio_ms": [
+    18650,
+    18850
+   ],
+   "sobrou_ms": 117,
+   "tipo": "meio de frase",
+   "entre": "preparar | todos"
+  },
+  {
+   "f0": 562,
+   "n": 5,
+   "de_ms": 23440,
+   "ate_ms": 23649,
+   "tirou_ms": 209,
+   "silencio_ms": [
+    23400,
+    23700
+   ],
+   "sobrou_ms": 91,
+   "tipo": "meio de frase",
+   "entre": "pra | PowerPoint"
+  },
+  {
+   "f0": 607,
+   "n": 3,
+   "de_ms": 25317,
+   "ate_ms": 25442,
+   "tirou_ms": 125,
+   "silencio_ms": [
+    25260,
+    25510
+   ],
+   "sobrou_ms": 125,
+   "tipo": "meio de frase",
+   "entre": "Mas | a"
+  },
+  {
+   "f0": 710,
+   "n": 3,
+   "de_ms": 29613,
+   "ate_ms": 29738,
+   "tirou_ms": 125,
+   "silencio_ms": [
+    29570,
+    29800
+   ],
+   "sobrou_ms": 105,
+   "tipo": "meio de frase",
+   "entre": "um | roteiro"
+  },
+  {
+   "f0": 922,
+   "n": 5,
+   "de_ms": 38455,
+   "ate_ms": 38664,
+   "tirou_ms": 209,
+   "silencio_ms": [
+    38420,
+    38740
+   ],
+   "sobrou_ms": 111,
+   "tipo": "fim de frase",
+   "entre": "conversa. | Comenta"
+  }
+ ],
+ "segmentos_quadros": [
+  [
+   0,
+   49
+  ],
+  [
+   50,
+   146
+  ],
+  [
+   153,
+   183
+  ],
+  [
+   188,
+   275
+  ],
+  [
+   276,
+   408
+  ],
+  [
+   415,
+   449
+  ],
+  [
+   451,
+   562
+  ],
+  [
+   567,
+   607
+  ],
+  [
+   610,
+   710
+  ],
+  [
+   713,
+   922
+  ],
+  [
+   927,
+   981
+  ]
+ ]
+}

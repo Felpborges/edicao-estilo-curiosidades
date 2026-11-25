@@ -1,0 +1,773 @@
+{
+ "titulo": "Claude lançou Slides, Docs e Design",
+ "clipe": "../02-corte/clipe-limpo.mp4",
+ "fonte": "reellls.mp4 (2560x1440, 40,92 s) → corte limpo 1080x1920, 39,29 s, 23,976 fps",
+ "estilo": "Estilo 03 · Curiosidades (referência @fineasjackson) · plano da 2ª rodada, com o treino reestudado",
+ "duracao_ms": 39289,
+ "referencia": {
+  "rosto_pct": [
+   14,
+   21
+  ],
+  "cortes_10s": [
+   2.1,
+   2.6
+  ]
+ },
+ "beats": [
+  {
+   "n": 1,
+   "ini": 0,
+   "fim": 960,
+   "tipo": "GO · gancho com objeto",
+   "fala": "O Claude acabou de lançar",
+   "visto": "R16: as 4 curiosidades abrem no rosto por 0,71 a 1,29 s e cortam para o objeto na palavra do objeto (4 de 4). Aqui o rosto fica 0,96 s e o corte cai em \"três\".",
+   "opcoes": [
+    {
+     "k": "A",
+     "sug": true,
+     "tipo": "rosto",
+     "entrada": "corte",
+     "nome": "Rosto + legenda, corte seco na palavra do objeto",
+     "cat": "P25 + P01 · A-roll",
+     "refs": [
+      "V01-C00"
+     ],
+     "desc": "Você no enquadramento único, legenda amarela em tarja (\"O Claude\" / \"acabou de lançar\"). Corte seco para a cena 1 a 2 quadros antes de \"três\".",
+     "camera": "Nenhuma: o rosto fica fixo, sem zoom nem aproximação."
+    },
+    {
+     "k": "B",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Recorte do objeto no disco creme",
+     "cat": "P14 · cena de corte",
+     "refs": [
+      "V01-A01"
+     ],
+     "desc": "Abre direto na cena: disco de papel creme com o recorte do logo oficial do Claude (lacuna: objeto-tema), pop desencontrado em 2 imagens e deriva lenta. O rosto só aparece depois.",
+     "camera": "Deriva de +5 %/s desde o corte; recorte e disco crescem juntos."
+    },
+    {
+     "k": "C",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Print do anúncio em cartão",
+     "cat": "P06 · cena de corte",
+     "refs": [
+      "V01-A02"
+     ],
+     "desc": "Print real do anúncio oficial do lançamento (lacuna: prova do fato) em cartão de borda clara, inclinado ≈ 1,7°, assenta em 3 imagens e a câmera afasta devagar.",
+     "camera": "Estalo de entrada em 167 ms e deriva de +5 %/s; corta andando."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "ini": 960,
+   "fim": 3178,
+   "tipo": "LI · lista / NU · número",
+   "fala": "três ferramentas de IA totalmente gratuitas",
+   "visto": "R7: o objeto-tema nomeado sozinho puxa disco creme com recorte (V01, V03). R6: lista de 3 itens nunca fica no rosto. R4/R5: o dado escrito entra em etiqueta de papel, na palavra.",
+   "opcoes": [
+    {
+     "k": "A",
+     "sug": true,
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Três discos creme, um por ferramenta + etiqueta",
+     "cat": "P14 + P05 · cena de corte",
+     "refs": [
+      "V01-A28",
+      "V04-A09"
+     ],
+     "desc": "Três discos creme de tamanhos diferentes entram um a um (em \"três\", \"ferramentas\", \"de IA\"), cada um com o recorte do ícone oficial de uma ferramenta (lacunas: item 1, 2, 3). Etiqueta de papel com \"GRÁTIS\" desliza e cola na borda em \"gratuitas\".",
+     "camera": "Repouso de +3 %/s; pico em “gratuitas”, quando a etiqueta cola (+25 %/s com freio longo); corta andando."
+    },
+    {
+     "k": "B",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Pilha de 3 cartões",
+     "cat": "P08 · cena de corte",
+     "refs": [
+      "V01-A12"
+     ],
+     "desc": "Três prints reais (um resultado de cada ferramenta) caem um sobre o outro, 85 % da largura, borda de papel, giro alternado. Na referência cai um a cada ≈ 1,2 s; aqui a fala dá ≈ 0,5 s por item.",
+     "camera": "Aproxima +2,5 %/s enquanto a pilha se forma; não para."
+    },
+    {
+     "k": "C",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Colagem: três recortes caem em sequência",
+     "cat": "P16 · cena de corte",
+     "refs": [
+      "V01-A43"
+     ],
+     "desc": "Três recortes dos ícones (72 % da largura), deslocados e girados, caem um a cada 167 a 250 ms sobre o fundo escuro, sem disco.",
+     "camera": "Deriva de +3 %/s; cada recorte cai em degraus de 2 quadros."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "ini": 3178,
+   "fim": 6050,
+   "tipo": "NU · número / metáfora concreta",
+   "fala": "que podem fazer você economizar centenas de dólares por ano.",
+   "visto": "R12: \"dinheiro\" vira recortes do objeto de valor que caem na palavra (V01-A43, V02-A09). R11: quantidade grande pode virar afastamento que revela a quantidade (3 vídeos). Frase com dado concreto vai para a tela (123 de 128).",
+   "opcoes": [
+    {
+     "k": "A",
+     "sug": true,
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Colagem: notas caem na palavra",
+     "cat": "P16 · cena de corte",
+     "refs": [
+      "V01-A43"
+     ],
+     "desc": "Recortes de notas de dólar reais (lacuna: objeto de valor) caem uma a cada 167 a 250 ms, deslocadas e giradas, a partir de \"centenas\"; o maço fica até o fim da frase e sai para a direita com borrão.",
+     "camera": "Repouso de +3 %/s; pico em “centenas” (+30 %/s, freio de 0,9 s); corta andando."
+    },
+    {
+     "k": "B",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Afastamento que revela a quantidade",
+     "cat": "P13 · cena de corte",
+     "refs": [
+      "V04-A45"
+     ],
+     "desc": "Coluna de cartões com recibos e faturas reais de assinatura (lacuna: a despesa); a câmera afasta, acelera e freia, e revela uma parede de cartões que cobre o quadro.",
+     "camera": "Recuo que abre a quantidade em “centenas” (−25 %/s), freando até o corte."
+    },
+    {
+     "k": "C",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Contador em etiqueta de papel [1 vídeo]",
+     "cat": "P21 · cena de corte",
+     "refs": [
+      "V02-A11"
+     ],
+     "desc": "Cartão creme com a etiqueta do valor contando até \"US$ …/ano\" e marca-texto amarelo no número final. Só existe no V02; exige o valor exato, que a fala não dá.",
+     "camera": "Quase parada (+1 %/s) enquanto o número troca; pico leve no último valor."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "ini": 6050,
+   "fim": 8218,
+   "tipo": "LI · lista de nomes",
+   "fala": "Elas se chamam Slides, Docs e Design",
+   "visto": "Tabela LI: pilha, um cartão por item, na palavra (regra em 2 vídeos, 5 frases). R5: o nome é escrito só na 1ª vez, em etiqueta de papel. P08 entra 103 ms antes da palavra (mediana).",
+   "opcoes": [
+    {
+     "k": "A",
+     "sug": true,
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Pilha: um cartão por nome, com etiqueta",
+     "cat": "P08 + P05 · cena de corte",
+     "refs": [
+      "V03-A21",
+      "V03-A10"
+     ],
+     "desc": "Um cartão pipoca na palavra de cada item (\"Slides\", \"Docs\", \"Design\"), com o print real de algo feito naquela ferramenta; cada um ganha uma etiqueta de papel com o nome em caixa-alta.",
+     "camera": "Quase parada (+1 %/s) durante a lista, um cartão por nome; aproxima +8 %/s depois de “Design”."
+    },
+    {
+     "k": "B",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Fila de itens com lente que passa um a um",
+     "cat": "P15 · cena de corte",
+     "refs": [
+      "V02-A05"
+     ],
+     "desc": "Os três ícones recortados em fila; lente de aro creme fixa no centro (49 % da largura) mostra o print da ferramenta debaixo dela; um pan curto por nome falado.",
+     "camera": "Câmera fixa; quem anda é a lente, de item em item."
+    },
+    {
+     "k": "C",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Um recorte por item",
+     "cat": "P16 · cena de corte",
+     "refs": [
+      "V04-A02"
+     ],
+     "desc": "Fundo quase preto com vinheta, câmera andando; o recorte de cada ícone desliza em 7 a 8 quadros na palavra do nome.",
+     "camera": "Recuo de −10 %/s a cada recorte novo, para abrir espaço."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "ini": 8218,
+   "fim": 10930,
+   "tipo": "LU · lugar / DO · descrição",
+   "fala": "e ficam dentro do chat que você já utiliza.",
+   "visto": "R9: o traço à mão aponta o detalhe que a frase nomeia, na palavra (4 vídeos). Tabela LU-C: a foto do lugar entra cobrindo a cena (V04-A31). P06: uma prova só, em cartão, com câmera viva (4 vídeos).",
+   "opcoes": [
+    {
+     "k": "A",
+     "sug": true,
+     "tipo": "cena",
+     "entrada": "movimento",
+     "nome": "Print do chat em cartão + elipse à mão",
+     "cat": "P06 + P19 · cena de corte",
+     "refs": [
+      "V04-A08"
+     ],
+     "desc": "O print real da tela do chat do Claude desliza da esquerda e vira tela cheia; uma elipse amarela à mão se desenha em volta da caixa de mensagem, em \"chat\" (as ferramentas são acionadas pelo próprio pedido; não há um menu com as três). Entra por movimento, sem corte.",
+     "camera": "Viagem até o print (lento-rápido-lento); para enquanto a elipse é traçada em “chat”; retoma a +4 %/s."
+    },
+    {
+     "k": "B",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Lupa no detalhe",
+     "cat": "P15 · cena de corte",
+     "refs": [
+      "V01-A05"
+     ],
+     "desc": "Print do chat em cartão; um círculo de aro claro + aro preto (49 % da largura) cresce em 250 ms mostrando ampliada a caixa de mensagem.",
+     "camera": "Mergulho na lupa em “dentro”: acelera de +3 a +25 %/s."
+    },
+    {
+     "k": "C",
+     "tipo": "cena",
+     "entrada": "movimento",
+     "nome": "Print entra cobrindo a pilha",
+     "cat": "P10 · cena de corte",
+     "refs": [
+      "V04-A31"
+     ],
+     "desc": "O print do chat, sangrando as duas laterais, desliza da direita e cobre a pilha do trecho 4 (entrada ≈ 10 q, assenta em ≈ 12 q encolhendo). Sem marcação à mão.",
+     "camera": "O print entra cobrindo a pilha; depois deriva de +4 %/s."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "ini": 10930,
+   "fim": 12136,
+   "tipo": "AN · anúncio / ponte",
+   "fala": "E pra utilizar é muito fácil,",
+   "visto": "R2: anúncio no rosto em 13 de 20. Comentário ou ponte: rosto em 5 de 6. É uma das voltas ao rosto que mantêm a proporção de 14 a 21 %.",
+   "opcoes": [
+    {
+     "k": "A",
+     "sug": true,
+     "tipo": "rosto",
+     "entrada": "corte",
+     "nome": "Rosto + legenda",
+     "cat": "P25 + P01 · A-roll",
+     "refs": [
+      "V03-C00"
+     ],
+     "desc": "Corte seco para você, 1,2 s, só com a legenda. Corte seco de volta na frase seguinte.",
+     "camera": "Nenhuma (rosto)."
+    },
+    {
+     "k": "B",
+     "tipo": "segue",
+     "entrada": "movimento",
+     "nome": "Segue a cena anterior",
+     "cat": "ocorrência (V03 #50) · cena de corte",
+     "refs": [],
+     "desc": "O print do chat continua na tela com a câmera se aproximando; nenhuma imagem nova. Deixa o trecho 5 + 6 com 3,9 s no mesmo plano.",
+     "camera": "A câmera da cena anterior continua na taxa de repouso."
+    },
+    {
+     "k": "C",
+     "tipo": "overlay",
+     "entrada": "corte",
+     "nome": "Rosto + texto grande palavra a palavra [1 vídeo]",
+     "cat": "P03 · overlay sobre o A-roll",
+     "refs": [
+      "V05-A18"
+     ],
+     "desc": "\"é muito fácil\" em branco grande sobre o peito, palavra a palavra com fade de 3 quadros, a última em serifada itálica. Só existe no V05; fica abaixo do piso de leitura (≈ 400 ms parado).",
+     "camera": "Nenhuma; cada palavra entra em 3 quadros e fica nítida no 5º. A legenda some neste plano."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "ini": 12136,
+   "fim": 16450,
+   "tipo": "ME · mecanismo / CI · texto lido",
+   "fala": "é só você pedir pra ele aquilo que você quer construir, como por exemplo uma apresentação comercial pro seu negócio.",
+   "visto": "R9/R10: marca-texto amarelo só sobre texto real que a fala lê, varrendo no ritmo da leitura (5 vídeos). Aqui o texto real é o pedido digitado na caixa de mensagem. Pares R → P20 e P20 → R: 6 vezes cada.",
+   "opcoes": [
+    {
+     "k": "A",
+     "sug": true,
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "O pedido em tela cheia com marca-texto",
+     "cat": "P20 · cena de corte",
+     "refs": [
+      "V04-A35"
+     ],
+     "desc": "Print real da caixa de mensagem com o pedido digitado (\"Crie uma apresentação comercial para o meu negócio\") em tela cheia, câmera se aproximando; o marca-texto cresce da esquerda para a direita sobre \"apresentação comercial\" e depois \"meu negócio\", junto com a fala.",
+     "camera": "Quase parada (+0,3 %/s) enquanto o marca-texto varre o pedido; pico em “apresentação comercial” (+20 %/s)."
+    },
+    {
+     "k": "B",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Cartão do pedido por cima do print do chat",
+     "cat": "P20 · cena de corte",
+     "refs": [
+      "V01-A42"
+     ],
+     "desc": "O print do chat (87 % da largura) entra em \"pedir\"; um cartão creme com o texto do pedido cai por cima em \"como por exemplo\"; o marca-texto varre só os trechos lidos, em 2 passadas coladas à fala.",
+     "camera": "Para durante a varredura do marca-texto; aproxima +6 %/s depois."
+    },
+    {
+     "k": "C",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Pilha de 2 prints + elipse à mão",
+     "cat": "P08 + P19 · cena de corte",
+     "refs": [
+      "V03-A08"
+     ],
+     "desc": "Cartão grande girado com o print do chat; 2º cartão pipoca por cima, girado ao contrário, com o pedido digitado; uma elipse amarela se desenha em 7 quadros em volta do pedido. Sem marca-texto.",
+     "camera": "Para enquanto a elipse é traçada; repouso de +3 %/s."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "ini": 16450,
+   "fim": 17244,
+   "tipo": "OP · ponte",
+   "fala": "A partir daí então,",
+   "visto": "Ponte: rosto em 5 de 6, mas são só 0,79 s. Com mais um rosto aqui o vídeo passa de 3 cortes por 10 s (a referência tem 2,1 a 2,6). Seguir a cena é ocorrência (V03 #50) e resolve o ritmo.",
+   "opcoes": [
+    {
+     "k": "A",
+     "sug": true,
+     "tipo": "segue",
+     "entrada": "movimento",
+     "nome": "Segue a cena anterior",
+     "cat": "ocorrência · cena de corte",
+     "refs": [],
+     "desc": "O pedido marcado fica mais 0,8 s na tela, com a câmera ainda se aproximando (isso também dá o tempo de leitura depois da última palavra marcada). O corte vem em \"ele vai preparar\".",
+     "camera": "A câmera da cena anterior segue freando."
+    },
+    {
+     "k": "B",
+     "tipo": "rosto",
+     "entrada": "corte",
+     "nome": "Rosto + legenda",
+     "cat": "P25 + P01 · A-roll",
+     "refs": [
+      "V02-C00"
+     ],
+     "desc": "Corte seco para você por 0,79 s (a referência tem rostos de 0,5 a 0,8 s nas viradas curtas) e corte seco para a cena seguinte.",
+     "camera": "Nenhuma (rosto)."
+    },
+    {
+     "k": "C",
+     "tipo": "overlay",
+     "entrada": "corte",
+     "nome": "Rosto + texto grande [1 vídeo]",
+     "cat": "P03 · overlay sobre o A-roll",
+     "refs": [
+      "V05-A18"
+     ],
+     "desc": "\"A partir daí\" em branco grande sobre o peito. Só existe no V05 e não cabe no piso de leitura em 0,79 s. Não recomendo.",
+     "camera": "Nenhuma; a legenda some neste plano."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "ini": 17244,
+   "fim": 20661,
+   "tipo": "CQ · consequência / NU · quantidade",
+   "fala": "ele vai preparar todos os slides pra você. Depois, com seus slides prontos,",
+   "visto": "R11: quantidade → afastamento que revela a quantidade (P13: V03, V04, V05). Tabela CQ: segue a pilha ou abre cartão novo (P08). \"Todos os slides\" é a palavra que pede a quantidade visível.",
+   "opcoes": [
+    {
+     "k": "A",
+     "sug": true,
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Afastamento que revela todos os slides",
+     "cat": "P13 · cena de corte",
+     "refs": [
+      "V04-A45"
+     ],
+     "desc": "Começa fechado numa coluna de cartões com os slides reais que o Claude gerou; em \"todos\" a câmera acelera para trás (34 q) e freia (22 q), revelando a parede com o deck inteiro. A parede fica na tela, com afastamento lento, durante \"com seus slides prontos\".",
+     "camera": "Recuo que acelera em “todos” (−30 %/s) e freia; retoma +3 %/s em “prontos”."
+    },
+    {
+     "k": "B",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Pilha: os slides caem um sobre o outro",
+     "cat": "P08 · cena de corte",
+     "refs": [
+      "V01-A17"
+     ],
+     "desc": "Três slides reais com borda de papel (78 a 95 % da largura) caem um sobre o outro, cada um assenta em 4 quadros, giro alternado; o último cai em \"prontos\".",
+     "camera": "Aproxima +2,5 %/s enquanto os slides caem."
+    },
+    {
+     "k": "C",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Um slide empurra o outro",
+     "cat": "P10 · cena de corte",
+     "refs": [
+      "V04-A14"
+     ],
+     "desc": "Cada slide novo entra pela esquerda empurrando o anterior para fora pela direita em 13 quadros, depois zoom de +10 %/s. Mostra 2 ou 3 slides, um de cada vez.",
+     "camera": "Empurrão lateral em 0,5 s, sem desfoque; repouso de +4 %/s."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "ini": 20661,
+   "fim": 24120,
+   "tipo": "NA · ação narrada / LI · dois destinos",
+   "fala": "você pode exportar a apresentação inteira pra PowerPoint ou pra Google Slides.",
+   "visto": "R13: prova rápida por cima da cena entra sem corte (P09: 6 de 6). R12: cada substantivo concreto vira um recorte que entra na palavra (P16, 4 vídeos). Entrar sem corte aqui mantém os cortes por 10 s na faixa da referência.",
+   "opcoes": [
+    {
+     "k": "A",
+     "sug": true,
+     "tipo": "cena",
+     "entrada": "movimento",
+     "nome": "Print do menu de download + adesivos dos dois logos",
+     "cat": "P09 + P16 · cena de corte",
+     "refs": [
+      "V01-A38"
+     ],
+     "desc": "Sobre a parede do trecho 9: o print real do menu de download do Claude Slides (PDF, PNG, PowerPoint) cai em \"apresentação\"; os logos oficiais do PowerPoint e do Google Slides entram como adesivos, um em cada palavra, com o fundo escurecido. O Claude Slides não exporta direto para o Google Slides, então ele aparece só como logo.",
+     "camera": "Repouso de +3 %/s; quase para enquanto os adesivos caem em “PowerPoint” e “Google Slides”; o fundo escurece."
+    },
+    {
+     "k": "B",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Cartão do deck + recortes dos logos",
+     "cat": "P16 · cena de corte",
+     "refs": [
+      "V05-A48"
+     ],
+     "desc": "O deck em cartão creme inclinado, com zoom lento; os recortes dos logos oficiais do PowerPoint e do Google Slides entram girando com borrão e assentam no canto inferior ≈ 0,4 s antes de cada palavra. Entra por corte seco, sem a parede atrás.",
+     "camera": "Pico em “exportar” (+25 %/s); os logos entram sem a câmera parar."
+    },
+    {
+     "k": "C",
+     "tipo": "cena",
+     "entrada": "movimento",
+     "nome": "O arquivo exportado empurra a parede",
+     "cat": "P10 · cena de corte",
+     "refs": [
+      "V04-A16"
+     ],
+     "desc": "O print do menu de download desce do canto superior direito empurrando a parede para baixo-esquerda em 15 quadros; sem logos.",
+     "camera": "Empurrão em “exportar”; repouso depois."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "ini": 24120,
+   "fim": 25860,
+   "tipo": "VI · virada",
+   "fala": "Mas a novidade não para só nos slides.",
+   "visto": "R1: virada fica no rosto com legenda: 25 de 34 (74 %), nos 4 vídeos. É o motivo nº 1 para voltar ao rosto (40 % dos trechos de rosto). Plano de 1,6 a 2,3 s; aqui 1,74 s.",
+   "opcoes": [
+    {
+     "k": "A",
+     "sug": true,
+     "tipo": "rosto",
+     "entrada": "corte",
+     "nome": "Rosto + legenda",
+     "cat": "P25 + P01 · A-roll",
+     "refs": [
+      "V01-C00"
+     ],
+     "desc": "Corte seco para você, só com a legenda, 1,74 s. Corte seco para a cena seguinte em \"Na mesma conversa\".",
+     "camera": "Nenhuma (rosto)."
+    },
+    {
+     "k": "B",
+     "tipo": "overlay",
+     "entrada": "corte",
+     "nome": "Rosto + texto grande palavra a palavra [1 vídeo]",
+     "cat": "P03 · overlay sobre o A-roll",
+     "refs": [
+      "V05-A41"
+     ],
+     "desc": "\"não para só nos\" + \"slides\" sozinha na linha 2 em serifada itálica, branco, sobre o peito, fade de 3 quadros por palavra. Só existe no V05.",
+     "camera": "Nenhuma; a legenda some neste plano."
+    },
+    {
+     "k": "C",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Imagem única que mostra o fato da virada",
+     "cat": "P06 · cena de corte",
+     "refs": [
+      "V03-A30"
+     ],
+     "desc": "O cartão da ferramenta Slides já visto volta sozinho sobre o fundo escuro, com push-in ×1,39 em 36 quadros. Tira um rosto do vídeo (rosto cai para ≈ 13 %).",
+     "camera": "Aproximação que acelera até o corte (de +4 a +30 %/s): a câmera da virada."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "ini": 25860,
+   "fim": 29102,
+   "tipo": "EX · exemplo / NA · ação narrada",
+   "fala": "Na mesma conversa, por exemplo, você pode pedir pra ele criar um roteiro",
+   "visto": "Tabela EX: cartão sozinho com a foto real (P06: V01, V05) e cartão que cai por cima (P09). Par R → P06: 5 vezes. O objeto \"roteiro\" entra na palavra (regra de escolha nº 1: substantivo que se fotografa).",
+   "opcoes": [
+    {
+     "k": "A",
+     "sug": true,
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Print da conversa + o roteiro cai por cima",
+     "cat": "P06 + P09 · cena de corte",
+     "refs": [
+      "V04-A15",
+      "V01-A45"
+     ],
+     "desc": "Print real da mesma conversa (com os slides acima e o novo pedido) em cartão vertical, zoom de +8 %/s; em \"roteiro\" o print do documento do roteiro (80 % da largura) cai no meio da cena.",
+     "camera": "Repouso de +3 %/s; freia quando o roteiro cai em “roteiro” (assenta em degraus de 2 quadros)."
+    },
+    {
+     "k": "B",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "O roteiro em tela cheia com marca-texto no título",
+     "cat": "P20 · cena de corte",
+     "refs": [
+      "V04-A40"
+     ],
+     "desc": "O documento real do roteiro em tela cheia com aproximação contínua (≈ +6 %/s) e pan lateral; o marca-texto cresce em 11 quadros sobre o título, em \"roteiro\".",
+     "camera": "Para durante o marca-texto no título; aproxima +5 %/s depois."
+    },
+    {
+     "k": "C",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Recorte do documento no disco creme",
+     "cat": "P14 · cena de corte",
+     "refs": [
+      "V01-A11"
+     ],
+     "desc": "Disco creme (80 % da largura) com o recorte do documento do roteiro (56 % da altura), pop desencontrado em 2 imagens, aproxima 6,7 %/s. Entra em \"roteiro\"; antes disso segue o rosto.",
+     "camera": "Deriva de +5 %/s; recorte e disco juntos."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "ini": 29102,
+   "fim": 32960,
+   "tipo": "NA · ação seguinte do mesmo objeto",
+   "fala": "que depois ele consegue transformar em carrosséis no Instagram com base nesse material.",
+   "visto": "Tabela NA-C e R13: foto nova empurra a anterior quando é o mesmo personagem na ação seguinte (P10: 6 de 7 sem corte). R12: verbo de ação sobre o objeto → o objeto muda na palavra do verbo (P17, quase só V04).",
+   "opcoes": [
+    {
+     "k": "A",
+     "sug": true,
+     "tipo": "cena",
+     "entrada": "movimento",
+     "nome": "Os cartões do carrossel empurram o roteiro",
+     "cat": "P10 · cena de corte",
+     "refs": [
+      "V04-A16"
+     ],
+     "desc": "Em \"transformar\" o 1º cartão do carrossel real desce do canto superior direito empurrando o roteiro para baixo-esquerda em 15 quadros; o 2º pipoca por cima em \"Instagram\". São dois cartões: três ficariam menos de 1,2 s cada na tela.",
+     "camera": "Empurrão em “carrosséis” (lento-rápido-lento, sem desfoque); repouso de +4 %/s; corta andando."
+    },
+    {
+     "k": "B",
+     "tipo": "cena",
+     "entrada": "movimento",
+     "nome": "O roteiro se transforma em carrossel",
+     "cat": "P17 · cena de corte",
+     "refs": [
+      "V04-A19"
+     ],
+     "desc": "O documento recortado é fatiado por linhas que pipocam em 1 quadro e cada fatia vira um cartão do carrossel em giro tipo carta de 4 a 7 quadros, na palavra. Mais difícil de ler e de construir.",
+     "camera": "Quase parada enquanto a transformação acontece; retomada forte depois (+30 %/s)."
+    },
+    {
+     "k": "C",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Maço: os cartões do carrossel pipocam um a um",
+     "cat": "P08 · cena de corte",
+     "refs": [
+      "V03-A22"
+     ],
+     "desc": "Corte seco; 4 a 6 cartões do carrossel de tamanho parecido (80 a 95 % da largura) pipocam com estalo quase no mesmo lugar, formando um maço. O recorte do logo oficial do Instagram entra em \"Instagram\".",
+     "camera": "Quase parada (+1 %/s) durante a enumeração; aproxima no último cartão."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "ini": 32960,
+   "fim": 35282,
+   "tipo": "CO · comparação",
+   "fala": "Então, ao invés de você pagar pelo Gamma ou pelo Canva,",
+   "visto": "Tabela CO: o termo comparado entra como recorte ao lado do objeto (P16, 4 vídeos; entra 47 ms antes da palavra, 11 de 12 por corte). R10: o que alguém cobra ou diz se prova com o documento real marcado (P20).",
+   "opcoes": [
+    {
+     "k": "A",
+     "sug": true,
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Recortes dos dois logos, um por palavra",
+     "cat": "P16 · cena de corte",
+     "refs": [
+      "V04-A02"
+     ],
+     "desc": "A cena abre com o maço de notas do trecho 3 e um papel creme, câmera andando; o adesivo do logo oficial do Gamma desliza em 7 quadros em \"Gamma\" e o do Canva em 8 quadros em \"Canva\".",
+     "camera": "Recuo de −10 %/s a cada logo, um por palavra; pico leve em “Canva”."
+    },
+    {
+     "k": "B",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Páginas de preço em pilha, com marca-texto",
+     "cat": "P20 · cena de corte",
+     "refs": [
+      "V02-A07"
+     ],
+     "desc": "O print real da página de preços do Gamma assenta; o do Canva cai por cima; o marca-texto varre a linha do preço em cada um. Prova mais forte, mas o 2º documento fica só ≈ 0,8 s (abaixo do piso de 1,2 s) se o trecho 15 não seguir na mesma cena.",
+     "camera": "Para durante o marca-texto no preço."
+    },
+    {
+     "k": "C",
+     "tipo": "rosto",
+     "entrada": "corte",
+     "nome": "Rosto + legenda",
+     "cat": "P25 + P01 · A-roll",
+     "refs": [
+      "V04-C00"
+     ],
+     "desc": "Você na tela nos dois trechos finais (14 a 16 viram um plano só de 6,3 s, com 2 nomes de marca sem imagem). Contraria a regra \"dado concreto vai para a tela\".",
+     "camera": "Nenhuma (rosto)."
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "ini": 35282,
+   "fim": 37080,
+   "tipo": "CL · conclusão",
+   "fala": "você tem tudo em uma única conversa.",
+   "visto": "Tabela CL: callback da imagem do gancho (V01, V03, V05); 3 das 4 curiosidades fecham reusando a imagem do gancho. Rosto na conclusão: 5 de 12. Cartão sozinho com a prova real (P06) aparece nos 4 vídeos e é a opção mais limpa quando a conclusão é sobre a ferramenta.",
+   "opcoes": [
+    {
+     "k": "A",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Callback: os três discos do gancho voltam",
+     "cat": "P14 · cena de corte",
+     "refs": [
+      "V01-A46"
+     ],
+     "desc": "Os discos creme do trecho 2 voltam (mesmos recortes); em \"única conversa\" o cartão do chat sobe da base em 917 ms com ease-out e assenta por trás deles, juntando os três.",
+     "camera": "Recuo que abre os três discos (−20 %/s, freando)."
+    },
+    {
+     "k": "B",
+     "tipo": "rosto",
+     "entrada": "corte",
+     "nome": "Rosto + legenda",
+     "cat": "P25 + P01 · A-roll",
+     "refs": [
+      "V03-C00"
+     ],
+     "desc": "Você na tela na frase-tese; emenda com o CTA num plano só de 4,0 s (acima do maior rosto da referência no V01, 3,46 s; dentro do V04, 4,38 s).",
+     "camera": "Nenhuma (rosto)."
+    },
+    {
+     "k": "C",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "A interface do Claude em cartão com câmera viva",
+     "cat": "P06 · cena de corte",
+     "refs": [
+      "V04-A15"
+     ],
+     "desc": "Corte seco para um cartão quase da largura da tela com a captura real da conversa: os pedidos à esquerda e o resultado aberto no Claude Design à direita; zoom de +8 %/s. Mostra a interface em vez de repetir a imagem do gancho. Foi a escolhida na revisão do corte 01.",
+     "camera": "Aproximação contínua de +8 %/s até o corte, com o cartão descendo: é o fecho, sem pico.",
+     "sug": true
+    }
+   ],
+   "nota_sug": "No corte 03 você pediu a interface do Claude aqui, no lugar dos três discos. Mantive como sugestão."
+  },
+  {
+   "n": 16,
+   "ini": 37080,
+   "fim": 39289,
+   "tipo": "CTA",
+   "fala": "Comenta Slides e eu te envio um link pra você conhecer.",
+   "visto": "As 4 curiosidades acabam sem CTA. Só o V02 (anúncio) tem: \"o link está na bio\", no rosto. O seu roteiro tem CTA, então vale a forma do V02 [1 vídeo]. Sem cartela e sem música de saída.",
+   "opcoes": [
+    {
+     "k": "A",
+     "sug": true,
+     "tipo": "rosto",
+     "entrada": "corte",
+     "nome": "Rosto + legenda",
+     "cat": "P25 + P01 · A-roll",
+     "refs": [
+      "V02-C00"
+     ],
+     "desc": "Corte seco para você, legenda amarela (\"Comenta Slides\" / \"e eu te envio\" / \"um link\"…), 2,2 s. O vídeo acaba no fim da fala, sem cartela.",
+     "camera": "Nenhuma (rosto)."
+    },
+    {
+     "k": "B",
+     "tipo": "cena",
+     "entrada": "corte",
+     "nome": "Cartão de papel com a palavra marcada [1 vídeo]",
+     "cat": "P20 · cena de corte",
+     "refs": [
+      "V02-A12"
+     ],
+     "desc": "Cartão creme-amarelado (89 % da largura) com \"COMENTA\" em versalete serifada e \"Slides\" em itálica; push-in lento; o marca-texto varre \"Slides\" em ≈ 17 quadros.",
+     "camera": "Quase parada enquanto a palavra é marcada."
+    },
+    {
+     "k": "C",
+     "tipo": "overlay",
+     "entrada": "corte",
+     "nome": "Rosto + texto grande com a palavra [1 vídeo]",
+     "cat": "P03 · overlay sobre o A-roll",
+     "refs": [
+      "V05-A47"
+     ],
+     "desc": "\"Comenta\" + \"Slides\" sozinha na linha 2 em serifada itálica, branco, sobre o peito. Só existe no V05.",
+     "camera": "Nenhuma; a legenda some neste plano."
+    }
+   ]
+  }
+ ],
+ "perfil_padrao": "V03",
+ "rodada": 2
+}

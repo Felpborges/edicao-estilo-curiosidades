@@ -1,0 +1,27 @@
+# Índice dos princípios
+
+- `P01` Legenda amarela em tarja escura → `references/principios/P01-legenda-amarela-em-tarja-escura.md`
+- `P02` Título sobre o rosto → `references/principios/P02-titulo-sobre-o-rosto.md`
+- `P03` Texto grande palavra a palavra sobre o rosto → `references/principios/P03-texto-grande-palavra-a-palavra-sobre-o-rosto.md`
+- `P04` Rótulo e número digitados sobre a cena → `references/principios/P04-rotulo-e-numero-digitados-sobre-a-cena.md`
+- `P05` Etiqueta de papel na imagem → `references/principios/P05-etiqueta-de-papel-na-imagem.md`
+- `P06` Imagem em cartão com câmera viva → `references/principios/P06-imagem-em-cartao-com-camera-viva.md`
+- `P07` Imagem em tela cheia em deriva → `references/principios/P07-imagem-em-tela-cheia-em-deriva.md`
+- `P08` Pilha de cartões → `references/principios/P08-pilha-de-cartoes.md`
+- `P09` Cartão que cai por cima da cena → `references/principios/P09-cartao-que-cai-por-cima-da-cena.md`
+- `P10` Troca de cartão por empurrão ou cobertura → `references/principios/P10-troca-de-cartao-por-empurrao-ou-cobertura.md`
+- `P11` Viagem de câmera entre peças → `references/principios/P11-viagem-de-camera-entre-pecas.md`
+- `P12` Faixa de b-roll em letterbox → `references/principios/P12-faixa-de-b-roll-em-letterbox.md`
+- `P13` Afastamento que revela a quantidade → `references/principios/P13-afastamento-que-revela-a-quantidade.md`
+- `P14` Disco creme com recorte → `references/principios/P14-disco-creme-com-recorte.md`
+- `P15` Lupa e janela circular → `references/principios/P15-lupa-e-janela-circular.md`
+- `P16` Colagem de recortes → `references/principios/P16-colagem-de-recortes.md`
+- `P17` Objeto que se transforma pela ação narrada → `references/principios/P17-objeto-que-se-transforma-pela-acao-narrada.md`
+- `P18` Diagrama chapado com estados → `references/principios/P18-diagrama-chapado-com-estados.md`
+- `P19` Marcação e desenho à mão → `references/principios/P19-marcacao-e-desenho-a-mao.md`
+- `P20` Documento com marca-texto → `references/principios/P20-documento-com-marca-texto.md`
+- `P21` Linha do tempo e dado em papel → `references/principios/P21-linha-do-tempo-e-dado-em-papel.md`
+- `P22` Mapa com marcação → `references/principios/P22-mapa-com-marcacao.md`
+- `P23` B-roll 3D com cor seletiva → `references/principios/P23-b-roll-3d-com-cor-seletiva.md`
+- `P24` Cena 3D narrativa → `references/principios/P24-cena-3d-narrativa.md`
+- `P25` Corte seco e apresentador em plano único → `references/principios/P25-corte-seco-e-apresentador-em-plano-unico.md`
